@@ -1,0 +1,3 @@
+[submodule "Software/Elchemi_1/elchemi"]
+	path = Software/Elchemi_1/elchemi
+	url = https://github.com/aquilesC/elchemi.git
